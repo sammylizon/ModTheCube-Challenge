@@ -243,8 +243,8 @@ MonoBehaviour:
   objectRenderer: {fileID: 187565533}
   pointA: {fileID: 417777843}
   pointB: {fileID: 1898019058}
-  moveDuration: 5
-  moveDurationC: 5
+  moveDuration: 20
+  moveDurationC: 20
 --- !u!1 &417777843
 GameObject:
   m_ObjectHideFlags: 0
@@ -456,7 +456,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: -0.24575162, y: 0.59969896, z: -0.20060495, w: -0.73465985}
-  m_LocalPosition: {x: 9.084052, y: 10.156225, z: -0.958809}
+  m_LocalPosition: {x: 7.5, y: 5.6, z: -0.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
